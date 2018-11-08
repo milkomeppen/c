@@ -1,9 +1,1 @@
-window.onload = function() {
-    if (window.jQuery) {  
-        // jQuery is loaded  
-        alert("Yeah!");
-    } else {
-        // jQuery is not loaded
-        alert("Doesn't Work");
-    }
-}
+setTimeout(function(){ alert("Hello"); }, 3000);
