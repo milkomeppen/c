@@ -1,4 +1,4 @@
-setTimeout(i_start(), 5000);
+setTimeout(function() {i_start();}, 5000);
 
 function i_start() {
     
