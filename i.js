@@ -1,7 +1,7 @@
-setTimeout(i_start(), 3000);
+setTimeout(i_start(), 5000);
 
 function i_start() {
     
-    alert('hi you are hacked.');
+    alert('Hello we are your friends..');
 
 }
